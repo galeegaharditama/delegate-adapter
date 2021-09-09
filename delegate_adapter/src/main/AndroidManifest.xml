@@ -2,4 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.galih.delegate_adapter">
 
+    <application android:allowBackup="true"
+        android:label="Delegate Adapter"
+        android:supportsRtl="true"/>
+
 </manifest>
